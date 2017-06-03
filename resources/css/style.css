@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+.topmenu {
+  background-image: url(../images/building.png);
+}
+
+.designline{
+  background-image: url(../images/building.png);
+  color: white;
+}
+
+.topmenu p {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.copyright {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11px;
+  color:white;
+  background-color: dimgray;
+}
+
+.bottommenu {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  background-color: dimgray;
+}
+
+a:link, a:visited, a:active {
+  color: white;
+}
